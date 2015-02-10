@@ -1,0 +1,22 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.ok.sudoku.factorydigit;
+
+import com.ok.sudoku.factorydigit.Digit;
+
+/**
+ *
+ * @author okan
+ */
+public class Digit_Value_9x9 implements Digit{
+    
+    private final String SET_VALUE_9X9 = "123456789";
+    public String getDigit() {
+     //   throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    return SET_VALUE_9X9;
+    }
+    
+}

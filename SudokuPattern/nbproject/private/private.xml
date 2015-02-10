@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/strategyboard/Valid_Board_9x9.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/backgroundcolor/BackgroundSetColor.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/puzzle/Puzzle_Control.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/test/com/ok/test/strategyboard/TestStrategyBoard.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/main/Main.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/strategyboard/Valid_Board_6x6.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/ıtem/Items.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/backgroundcolor/BackgroundReleaseColor.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/factorydigit/Digit_Value_9x9.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/factorydigit/Digit_Value_6x6.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/value/Game_Mode.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/backgroundcolor/Command.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/background/BackgroundSet.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/test/com/ok/sudoku/test/background/NewClass.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/strategyboard/Board_Select.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/test/com/ok/sudoku/test/background/TestBackgroundColor.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/background/ChangeCommand.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/puzzle/Prototype.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/factorydigit/Digit.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/background/BackgroundImage.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/screen/MainMenuSelect.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/screen/NewClass.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/controller/Sudoku.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/test/com/ok/sudoku/test/factorydigit/TestFactoryDigit.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/backgroundcolor/BackgroundColor.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/background/Command.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/background/BackgroundRelease.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/screen/Input.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/controller/StopWatch.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/backgroundcolor/ChangeCommandColor.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/test/com/ok/sudoku/test/prototype/puzzle/TestPuzzle.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/strategyboard/Board.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/value/Grid_Value.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/test/com/ok/sudoku/test/background/TestBackgroundImage.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/factorydigit/Digit_FactorySetter.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/puzzle/Puzzle.java</file>
+            <file>file:/C:/Users/okan/Desktop/NesneProje/Sudoku%201.0.0/SudokuWorking/src/com/ok/sudoku/puzzle/Random_Number.java</file>
+        </group>
+    </open-files>
+</project-private>
